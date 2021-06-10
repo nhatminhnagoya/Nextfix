@@ -20,4 +20,3 @@ OptForm.Button = function OpFormButton({ children, ...restProps }) {
 OptForm.Text = function OptFormText({ children, ...restProps }) {
   return <Text {...restProps}>{children}</Text>;
 };
-
