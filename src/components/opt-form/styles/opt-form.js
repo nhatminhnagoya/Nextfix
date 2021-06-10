@@ -33,7 +33,7 @@ export const Button = styled.button`
   font-size: 26px;
   border: 0;
   cursor: pointer;
-  
+
   img {
     margin-left: 10px;
     filter: brightness(0) invert(1);
@@ -42,7 +42,7 @@ export const Button = styled.button`
       width: 16px;
     }
   }
-  
+
   &:hover {
     background: #f40612;
   }
