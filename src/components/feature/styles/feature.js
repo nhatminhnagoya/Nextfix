@@ -12,7 +12,7 @@ export const Title = styled.h1`
   color: white;
   max-width: 640px;
   font-size: 50px;
-  font-weight: 500;
+  font-weight: 700;
   margin: auto;
   
   @media (max-width: 600px) {
@@ -28,5 +28,17 @@ export const SubTitle = styled.h2`
   
   @media (max-width: 600px) {
     font-size: 18px;
+  }
+`;
+
+export const Text = styled.p`
+  font-size: 19.2px;
+  font-weight: 500;
+  color: white;
+  text-align: center;
+
+  @media only screen and (max-width: 400px) {
+    font-size: 16px;
+    line-height: 22px;
   }
 `;
