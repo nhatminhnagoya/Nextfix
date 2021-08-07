@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/Nextfix/static/js/main.bba4b752.chunk.js",
+    "main.js.map": "/Nextfix/static/js/main.bba4b752.chunk.js.map",
+    "runtime-main.js": "/Nextfix/static/js/runtime-main.1da5cd25.js",
+    "runtime-main.js.map": "/Nextfix/static/js/runtime-main.1da5cd25.js.map",
+    "static/css/2.679831fc.chunk.css": "/Nextfix/static/css/2.679831fc.chunk.css",
+    "static/js/2.fc64dc4b.chunk.js": "/Nextfix/static/js/2.fc64dc4b.chunk.js",
+    "static/js/2.fc64dc4b.chunk.js.map": "/Nextfix/static/js/2.fc64dc4b.chunk.js.map",
+    "index.html": "/Nextfix/index.html",
+    "static/css/2.679831fc.chunk.css.map": "/Nextfix/static/css/2.679831fc.chunk.css.map",
+    "static/js/2.fc64dc4b.chunk.js.LICENSE.txt": "/Nextfix/static/js/2.fc64dc4b.chunk.js.LICENSE.txt",
+    "static/media/logo.5787551b.svg": "/Nextfix/static/media/logo.5787551b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1da5cd25.js",
+    "static/css/2.679831fc.chunk.css",
+    "static/js/2.fc64dc4b.chunk.js",
+    "static/js/main.bba4b752.chunk.js"
+  ]
+}
